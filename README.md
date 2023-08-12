@@ -1,6 +1,6 @@
 # expo-location-bare
 
-This repo demonstrates a simple example of expo-location as specified in [https://docs.expo.dev/versions/latest/sdk/location/](official documentaion)
+This repo demonstrates a simple example of expo-location as specified in [official documentaion](https://docs.expo.dev/versions/latest/sdk/location)
 
 ## Purpose
 Purpose of this repo is to show that expo location always includes the `com.google.android.gms.permission.ACTIVITY_RECOGNITION` example even though official documentation 
